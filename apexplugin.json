@@ -1,26 +1,30 @@
+
 {
   "name" : "Shopping Card Plugin",
-  "version" : "1.1.0",
+  "version" : "1.0",
   "description" : "This is shopping card type plugin.In this plugin there 16 types of buttons color which you have change according to your application.It is also mobile view.",
   "keywords" : ["shopping", "card", "cart", "plugin"],
   "homepage" : "https://github.com/sattuvirus/Shopping-Card",
+  "bugs" : {
+    "url" : "https://github.com/sattuvirus/Shopping-Card/issues",
+    "email" : "14satishyadav@gmail.com"
+  },
   "license" : "MIT",
   "author" : {
     "name" : "Satish Yadav",
     "email" : "14satishyadav@gmail.com",
-    "url" : "https://www.youtube.com/channel/UCZa0SWr7cZRP4C7QjI0qQEw?view_as=subscriber",
-    "twitter" : "apexYsatish"
+    "url" : "https://www.youtube.com/channel/UCZa0SWr7cZRP4C7QjI0qQEw?view_as=subscriber"
   },
-  "repository" : {
+   "repository" : {
     "type" : "git",
     "url" : "https://github.com/sattuvirus/Shopping-Card.git"
   },
-  "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
+ "oracle" : {
+   "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
       "versions" : ["5.1.4","18.1.0","19.1.0","19.2.0"],
       "plugin" : {
-        "internalName" : "SHOPPING.CARD.PLUGIN.SATISH",
+         "internalName" : "SHOPPING.CARD.PLUGIN.SATISH",
         "type" : "Region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=140847:6",
         "previewImage" : "https://raw.githubusercontent.com/sattuvirus/Shopping-Card/master/screenshot.gif"
