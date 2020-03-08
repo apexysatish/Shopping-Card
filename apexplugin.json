@@ -4,10 +4,6 @@
   "description" : "This is shopping card type plugin.In this plugin there 16 types of buttons color which you have change according to your application.It is also mobile view.",
   "keywords" : ["shopping", "card", "cart", "plugin"],
   "homepage" : "https://github.com/sattuvirus/Shopping-Card",
-  "bugs" : {
-    "url" : "https://github.com/sattuvirus/Shopping-Card/issues",
-    "email" : "14satishyadav@gmail.com"
-  },
   "license" : "MIT",
   "author" : {
     "name" : "Satish Yadav",
